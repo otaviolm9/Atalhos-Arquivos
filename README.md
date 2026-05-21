@@ -12,5 +12,7 @@ Não tenho backup da versão antiga então será apenas a versão nova
 
 - [x] Sem Google Drive
 - [x] Usando banco de dados
+- [x] Sem instalação na máquina (Roda no navegador)
+- [x] Uso de ```HTML, CSS, PHP, JS```
 - [x] Feito por BR 🇧🇷
 
