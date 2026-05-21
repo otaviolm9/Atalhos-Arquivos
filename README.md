@@ -1,7 +1,7 @@
 # Atalhos Arquivos
 Site para uso de salvar e ler arquivos em qualquer aparelho usando este site (em banco de dados)
 
-Para ver mais alterações ver o ```CHANGELOG.md``` *(que será criado do futuro)*
+Para ver mais alterações ver o ```CHANGELOG.md``` **(que será criado do futuro)**
 
 ## PROGRESSO
 Este site foi anteriormente criado com o sistema de upload do Google drive, mas não era compatível com automação e por isso vai ser alterado para uma banco de dados
