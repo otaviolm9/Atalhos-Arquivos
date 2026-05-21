@@ -12,6 +12,5 @@ Não tenho backup da versão antiga então será apenas a versão nova
 
 - [x] Sem Google Drive
 - [x] Usando banco de dados
-- [x] Gratuito
 - [x] Feito por BR 🇧🇷
 
