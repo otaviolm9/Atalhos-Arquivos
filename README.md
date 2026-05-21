@@ -11,5 +11,5 @@ Este site foi anteriormente criado com o sistema de upload do Google drive, mas 
 - [x] Sem Google Drive
 - [x] Usando banco de dados
 - [x] Gratuito
-- [x] Feito no Brasil 🇧🇷
+- [x] Feito por BR 🇧🇷
 
