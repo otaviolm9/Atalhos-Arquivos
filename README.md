@@ -6,6 +6,8 @@ Para ver mais alterações ver o ```CHANGELOG.md``` **(que será criado do futur
 ## PROGRESSO
 Este site foi anteriormente criado com o sistema de upload do Google drive, mas não era compatível com automação e por isso vai ser alterado para uma banco de dados
 
+Não tenho backup da versão antiga então será apenas a versão nova
+
 ## IDEIAS
 
 - [x] Sem Google Drive
