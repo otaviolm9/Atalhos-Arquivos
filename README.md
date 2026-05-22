@@ -8,7 +8,7 @@ Este site foi anteriormente criado com o sistema de upload do Google drive, mas 
 
 Não tenho backup da versão antiga então será apenas a versão nova
 
-## IDEIAS
+---
 
 - [x] Sem Google Drive
 - [x] Usando banco de dados
