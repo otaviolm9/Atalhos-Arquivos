@@ -12,6 +12,6 @@ Não tenho backup da versão antiga então será apenas a versão nova
 
 - [x] Sem Google Drive
 - [x] Usando banco de dados
-- [x] Sem instalação na máquina (Roda no navegador)
+- [x] Rodar no navegador (Sem instalação)
 - [x] Feito por BR 🇧🇷
 
